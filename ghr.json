@@ -1,0 +1,16 @@
+{
+  "version": "0.3.0",
+  "description": "Yet another repository management with auto-attaching profiles",
+  "homepage": "https://github.com/siketyan/ghr",
+  "license": {
+    "identifier": "MIT",
+    "url": "https://github.com/siketyan/ghr/blob/main/LICENCE.md"
+  },
+  "architecture": {
+    "64bit": {
+      "url": "https://github.com/siketyan/ghr/releases/download/v0.3.0/ghr-x86_64-pc-windows-msvc.tar.gz",
+      "hash": "f36174396e3a0f1b6668f0357c421823a40cc12e7a66caa36029317edd623c1e"
+    }
+  },
+  "bin": "ghr.exe"
+}

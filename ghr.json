@@ -1,5 +1,5 @@
 {
-  "version": "0.4.2",
+  "version": "0.4.3",
   "description": "Yet another repository management with auto-attaching profiles",
   "homepage": "https://github.com/siketyan/ghr",
   "license": {
@@ -8,8 +8,8 @@
   },
   "architecture": {
     "64bit": {
-      "url": "https://github.com/siketyan/ghr/releases/download/v0.4.2/ghr-x86_64-pc-windows-msvc.tar.gz",
-      "hash": "c77c4efbf928fe5de9c8054f1582a14697d6e95e70dea2ede8f447b18c590171"
+      "url": "https://github.com/siketyan/ghr/releases/download/v0.4.3/ghr-x86_64-pc-windows-msvc.tar.gz",
+      "hash": "da5a2adaa386b12f3ac50dd479a7c0100f6adce886c613a1e6f7137a82f00b2c"
     }
   },
   "bin": "ghr.exe"
